@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @tarun210309
+- 👋 Hi, I’m Tarun 
 - 👀 I’m interested in development,DSA
 - 🌱 I’m currently learning HTML,CSS,JAVA
 - 💞️ I’m looking to collaborate on DEVELOPMENT AND DSA 
-- 📫 How to reach me  @tarunisaredflag
+- 📫 How to reach me INSTARGRAM @tarunisaredflag
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: enthusiast over development field and looking more over to learn about data structure field 
+- ⚡ Fun fact: enthusiast over development field and looking more over to learn about it
 
 <!---
 tarun210309/tarun210309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
