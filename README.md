@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tarun 
 - 👀 I’m interested in development,DSA
-- 🌱 I’m currently learning HTML,CSS,JAVA
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on DEVELOPMENT AND DSA 
 - 📫 How to reach me INSTARGRAM @tarunisaredflag
 - 😄 Pronouns: he/him
