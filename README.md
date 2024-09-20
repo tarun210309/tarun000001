@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on DEVELOPMENT AND DSA 
 - 📫 How to reach me INSTARGRAM @tarunisaredflag
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he
 - ⚡ Fun fact: enthusiast over development field and looking more over to learn about it
 
 <!---
